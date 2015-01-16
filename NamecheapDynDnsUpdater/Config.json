@@ -1,0 +1,9 @@
+﻿{
+    "NetworkAdapterId": "",
+    "Hostname": "",
+    "Domain": "",
+    "Password": "",
+    "ShowDownedInterfaces": false,
+    "ShowIPv6": false,
+    "ShowAdapterIds": false
+}
